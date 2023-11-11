@@ -3,7 +3,7 @@
 
 I am Mohamed Rifkee, An enthusiast currently hacking on some of my projects.
 
-I love to work with Netowrking, Programming, IoT and distributed
+I love to work with Networking, Programming, IoT and distributed
 systems and retro computers. I am proficient with Java, Python, C#, Kotlin and JavaScript
  amongst others. Currently hacking on wasm, retro systems. (spoiler alert, I love it!)
 
